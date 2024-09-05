@@ -1,0 +1,4 @@
+﻿  StackTests.c
+C:\Users\yossi\Desktop\ProgramIntro2\DataStructures\Stack\StackTests.c(56,5): warning C4013: 'StackPrint' undefined; assuming extern returning int
+C:\Users\yossi\Desktop\ProgramIntro2\DataStructures\Stack\StackTests.c(414,18): warning C4129: '[': unrecognized character escape sequence
+  Stack.vcxproj -> C:\Users\yossi\Desktop\ProgramIntro2\DataStructures\x64\Debug\Stack.exe
